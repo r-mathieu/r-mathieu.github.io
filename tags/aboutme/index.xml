@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AboutMe - Tag - </title>
+        <link>https://r-mathieu.github.io/tags/aboutme/</link>
+        <description>AboutMe - Tag - </description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Mon, 27 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://r-mathieu.github.io/tags/aboutme/" rel="self" type="application/rss+xml" /><item>
+    <title>About Me</title>
+    <link>https://r-mathieu.github.io/about/</link>
+    <pubDate>Mon, 27 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/about/</guid>
+    <description><![CDATA[I&rsquo;m a young Junior Gameplay Programmer eager to learn (and to master!) more and more.
+I&rsquo;m interested in lots of subjects and mediums such as cinema, music, architecture, video games, photography, car, restoration and so on.
+I learned a lot about the making of video games as a gameplay programmer, working with each and every team involved in the development of a AAA game on PC and consoles (PS4 &amp; Xbox One).]]></description>
+</item></channel>
+</rss>
