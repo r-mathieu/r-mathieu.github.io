@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All personnal project - </title>
+        <link>https://r-mathieu.github.io/posts/personnal-project/</link>
+        <description>All personnal project | </description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Wed, 10 Mar 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://r-mathieu.github.io/posts/personnal-project/" rel="self" type="application/rss+xml" /><item>
+    <title>UK Transport - Part 1</title>
+    <link>https://r-mathieu.github.io/uk-transport-part-1/</link>
+    <pubDate>Wed, 10 Mar 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/uk-transport-part-1/</guid>
+    <description><![CDATA[Introduction : Never try Python, never try an API, want to try e-ink screen so let&rsquo;s go ! But what can I do to start, let&rsquo;s go DuckDuckGo with the words &ldquo;Free API&rdquo; and Transport API, well great, live data, large amount of data and I know a friend living in UK who&rsquo;s always late so this project can help (well, was late because now, remote working) and have an 3D printer so I can make a surprise so&hellip; Let&rsquo;s go for a proto !]]></description>
+</item></channel>
+</rss>
