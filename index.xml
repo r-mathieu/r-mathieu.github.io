@@ -4,12 +4,19 @@
         <link>https://r-mathieu.github.io/</link>
         <description></description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
-            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Wed, 10 Mar 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://r-mathieu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>UK Transport - Part 1</title>
+    <link>https://r-mathieu.github.io/uk-transport-part-1/</link>
+    <pubDate>Wed, 10 Mar 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/uk-transport-part-1/</guid>
+    <description><![CDATA[Introduction : Never try Python, never try an API, want to try e-ink screen so let&rsquo;s go ! But what can I do to start, let&rsquo;s go DuckDuckGo with the words &ldquo;Free API&rdquo; and Transport API, well great, live data, large amount of data and I know a friend living in UK who&rsquo;s always late so this project can help (well, was late because now, remote working) and have an 3D printer so I can make a surprise so&hellip; Let&rsquo;s go for a proto !]]></description>
+</item><item>
     <title>Ghost Recon Breakpoint</title>
     <link>https://r-mathieu.github.io/ghost-recon-breakpoint/</link>
-    <pubDate>Sat, 25 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <pubDate>Fri, 04 Oct 2019 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://r-mathieu.github.io/ghost-recon-breakpoint/</guid>
     <description><![CDATA[Studio: Ubisoft Bordeaux Platform: PC/ PS4/ Xbox One Genre: Tactical Shooter Release Date: 10/04/2019 Period: September 2017 – March 2019 My Role: Junior Gameplay Programmer Camp Team :
@@ -91,14 +98,5 @@ Goal The program must allow Thor to reach the light of power.
 Rules Thor moves on a map which is 40 wide by 18 high. The coordinates (X and Y) start at the top left.
 Once the program starts, there&rsquo;s the following input:
  the variable lightX: the X position of the light of power that Thor must reach. the variable lightY: the Y position of the light of power that Thor must reach.]]></description>
-</item><item>
-    <title>Shadows of the Knight - Ep.1</title>
-    <link>https://r-mathieu.github.io/shadows-of-the-knight-ep1/</link>
-    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://r-mathieu.github.io/shadows-of-the-knight-ep1/</guid>
-    <description><![CDATA[https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
-Goal Batman will look for the hostages on a given building by jumping from one window to another using his grapnel gun. Batman&rsquo;s goal is to jump to the window where the hostages are located in order to disarm the bombs. Unfortunately he has a limited number of jumps before the bombs go off&hellip;
-Rules Before each jump, the heat-signature device will provide Batman with the direction of the bombs based on Batman current position:]]></description>
 </item></channel>
 </rss>
