@@ -1,0 +1,104 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title></title>
+        <link>https://r-mathieu.github.io/</link>
+        <description></description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://r-mathieu.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Ghost Recon Breakpoint</title>
+    <link>https://r-mathieu.github.io/ghost-recon-breakpoint/</link>
+    <pubDate>Fri, 04 Oct 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/ghost-recon-breakpoint/</guid>
+    <description><![CDATA[Studio: Ubisoft Bordeaux Platform: PC/ PS4/ Xbox One Genre: Tactical Shooter Release Date: 10/04/2019 Period: September 2017 – March 2019 My Role: Junior Gameplay Programmer Camp Team :
+ <i class="fas fa-fast-forward "></i>&nbsp;Improvement of the camp creation tool. <i class="fas fa-database "></i>&nbsp;CampData creation management. <i class="fas fa-map "></i>&nbsp;Spawn of events in the world at specific points.  Drone Team :
+ <i class="fas fa-project-diagram"></i>&nbsp;Integration of the creation tool for the &ldquo;fighting behaviour&rdquo;.]]></description>
+</item><item>
+    <title>Chuck Norris</title>
+    <link>https://r-mathieu.github.io/chuck-norris/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/chuck-norris/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/chuck-norris
+Goal Write a program that takes an incoming message as input and displays as output the message encoded using Chuck Norris’ method.
+Rules The input message consists of ASCII characters (7-bit). The encoded output message consists of blocks of 0. A block is separated from another block by a space. Two consecutive blocks are used to produce a series of same value bits (only1 or0 values):
+ First block: it is always 0 or 00.]]></description>
+</item><item>
+    <title>Coding Game</title>
+    <link>https://r-mathieu.github.io/coding-game/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/coding-game/</guid>
+    <description><![CDATA[.categories-card { margin: 0 auto; margin-top: 3rem; display: flex; align-items: center; justify-content: space-between; flex-direction: row; flex-wrap: wrap; line-height: 1.6rem; .card-item { font-size: .875rem; text-align: left; width: 45%; display: flex; align-items: flex-start; margin-top: 2rem; min-height: 10rem; padding: 0 2%; position: relative; .card-item-wrapper { width: 100%; overflow: hidden; .card-item-title { font-size: 1.2rem; font-weight: bold; display: inline-block; margin-top: 1rem; margin-bottom: .75rem; } span { float: right; padding-right: 1rem; } } } } .]]></description>
+</item><item>
+    <title>Defibrillators</title>
+    <link>https://r-mathieu.github.io/defibrillators/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/defibrillators/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/defibrillators
+Goal Based on the data we provide in the tests, write a program that will allow users to find the defibrillator nearest to their location using their mobile phone.
+Rules The input data you require for your program is provided in text format. This data is comprised of lines, each of which represents a defibrillator. Each defibrillator is represented by the following fields:
+ A number identifying the defibrillator Name Address Contact Phone number Longitude (degrees) Latitude (degrees)  These fields are separated by a semicolon.]]></description>
+</item><item>
+    <title>Horse Racing Duals</title>
+    <link>https://r-mathieu.github.io/horse-racing_duals/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/horse-racing_duals/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/horse-racing-duals
+Goal Write a program which, using a given number of strengths, identifies the two closest strengths and shows their difference with an integer ( $ \eqslantgtr $ 0).
+Solution 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38  #include &lt;iostream&gt;#include &lt;vector&gt;#include &lt;algorithm&gt; using namespace std; int main() { int totalHorses; cin &gt;&gt; totalHorses; cin.]]></description>
+</item><item>
+    <title>Mars Lander</title>
+    <link>https://r-mathieu.github.io/mars-lander-ep2/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/mars-lander-ep2/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/mars-lander-episode-2
+Goal The goal for your program is to safely land the &ldquo;Mars Lander&rdquo; shuttle, the landing ship which contains the Opportunity rover. Mars Lander is guided by a program, and right now the failure rate for landing on the NASA simulator is unacceptable.
+This puzzle is the second level of the &ldquo;Mars Lander&rdquo; trilogy. The controls are the same as the previous level but you must now control the angle in order to succeed.]]></description>
+</item><item>
+    <title>Mars Lander - Ep.1</title>
+    <link>https://r-mathieu.github.io/mars-lander-ep1/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/mars-lander-ep1/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/mars-lander-episode-1
+Goal The goal for this program is to safely land the &ldquo;Mars Lander&rdquo; shuttle.
+Solution The solution can be easily found if you read all the statement and with only this so I&rsquo;ll skip all the informations.
+&ldquo;vertical speed must be limited ( ≤ 40m/s in absolute value)&quot;.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33  #include &lt;iostream&gt; using namespace std; int main() { int totalSurfacePoint; // the number of points used to draw the surface of Mars.]]></description>
+</item><item>
+    <title>Network Cabling</title>
+    <link>https://r-mathieu.github.io/network-cabling/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/network-cabling/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/network-cabling
+Goal An internet operator plans to connect a business park to the optical fiber network. The area to be covered is large and the operator is asking you to write a program that will calculate the minimum length of optical fiber cable required to connect all buildings.
+Rules For the implementation of the works, the operator has technical constraints whereby it is forced to proceed in the following manner: A main cable will cross through the park from the West to the East (from the position x of the most westerly building to the position x of the most easterly building).]]></description>
+</item><item>
+    <title>Power of thor</title>
+    <link>https://r-mathieu.github.io/power-of-thor/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/power-of-thor/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/power-of-thor-episode-1
+Goal The program must allow Thor to reach the light of power.
+Rules Thor moves on a map which is 40 wide by 18 high. The coordinates (X and Y) start at the top left.
+Once the program starts, there&rsquo;s the following input:
+ the variable lightX: the X position of the light of power that Thor must reach. the variable lightY: the Y position of the light of power that Thor must reach.]]></description>
+</item><item>
+    <title>Shadows of the Knight - Ep.1</title>
+    <link>https://r-mathieu.github.io/shadows-of-the-knight-ep1/</link>
+    <pubDate>Sun, 12 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/shadows-of-the-knight-ep1/</guid>
+    <description><![CDATA[https://www.codingame.com/ide/puzzle/shadows-of-the-knight-episode-1
+Goal Batman will look for the hostages on a given building by jumping from one window to another using his grapnel gun. Batman&rsquo;s goal is to jump to the window where the hostages are located in order to disarm the bombs. Unfortunately he has a limited number of jumps before the bombs go off&hellip;
+Rules Before each jump, the heat-signature device will provide Batman with the direction of the bombs based on Batman current position:]]></description>
+</item></channel>
+</rss>

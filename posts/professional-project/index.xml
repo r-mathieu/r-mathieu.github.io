@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Professional Project - </title>
+        <link>https://r-mathieu.github.io/posts/professional-project/</link>
+        <description>All Professional Project | </description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><lastBuildDate>Fri, 04 Oct 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://r-mathieu.github.io/posts/professional-project/" rel="self" type="application/rss+xml" /><item>
+    <title>Ghost Recon Breakpoint</title>
+    <link>https://r-mathieu.github.io/ghost-recon-breakpoint/</link>
+    <pubDate>Fri, 04 Oct 2019 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/ghost-recon-breakpoint/</guid>
+    <description><![CDATA[Studio: Ubisoft Bordeaux Platform: PC/ PS4/ Xbox One Genre: Tactical Shooter Release Date: 10/04/2019 Period: September 2017 – March 2019 My Role: Junior Gameplay Programmer Camp Team :
+ <i class="fas fa-fast-forward "></i>&nbsp;Improvement of the camp creation tool. <i class="fas fa-database "></i>&nbsp;CampData creation management. <i class="fas fa-map "></i>&nbsp;Spawn of events in the world at specific points.  Drone Team :
+ <i class="fas fa-project-diagram"></i>&nbsp;Integration of the creation tool for the &ldquo;fighting behaviour&rdquo;.]]></description>
+</item></channel>
+</rss>
