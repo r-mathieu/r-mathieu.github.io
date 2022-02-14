@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>personal-project - Category - </title>
+        <link>https://r-mathieu.github.io/categories/personal-project/</link>
+        <description>personal-project - Category - </description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>mathieu.ro@pm.me (Mathieu)</managingEditor>
+            <webMaster>mathieu.ro@pm.me (Mathieu)</webMaster><atom:link href="https://r-mathieu.github.io/categories/personal-project/" rel="self" type="application/rss+xml" /><item>
+    <title>Reuse my &#34;old&#34; smartphone</title>
+    <link>https://r-mathieu.github.io/smartphone-project/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://r-mathieu.github.io/smartphone-project/</guid>
+    <description><![CDATA[A little story&hellip; In March 2020, I needed a new phone and I didn&rsquo;t want to spend a lot of money on a phone so I took one of the best &ldquo;old&rdquo; phone in 2017 I bought a refurbished phone, the Google Pixel 2 XL for 200€ (Launch price was 950-1050€, what a decrease) and also I try to spend as little time as possible on it to spend more time on gami&hellip; coding and some passions.]]></description>
+</item></channel>
+</rss>

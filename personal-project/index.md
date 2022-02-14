@@ -82,8 +82,8 @@
 <div class="categories-card">
   <div class="card-item">
     <div class="card-item-wrapper">
-      <article class="archive-item"><a href="https://github.com/r-mathieu/E-Ink-Trainstation" class="archive-item-link">E-ink Trainstation</a></article>
-      <a href="https://github.com/r-mathieu/E-Ink-Trainstation">{{<image src="https://raw.githubusercontent.com/r-mathieu/E-Ink-Trainstation/main/git-page/raspberry-pi.jpg">}}</a>
-      <article class="archive-item">A new project is coming (On Unreal Engine this time)</article>
+      <article class="archive-item"><a href="https://github.com/r-mathieu/E-Ink-Trainstation" class="archive-item-link">- E-ink Trainstation</a></article>
+      <article class="archive-item"><a href="{{< relref "smartphone-project.md" >}}" class="archive-item-link">- Reuse my 'old' smartphone</a></article>
+      <article class="archive-item">A new project is coming...</article>
     </div>
 </div>
