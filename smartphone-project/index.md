@@ -9,13 +9,13 @@ And for me, it (still) is a great phone even for an "old" phone, it's still fast
 
 In November 2021, still in love with this phone, I decided to make it look a bit like new. New battery, new USB-C entry port, apply a new thermal paste and even a new earpiece speaker dust mesh !
 
-{{< image src="/images/personal-project/fix-phone.jpg" width="100%">}}
+{{< image src="/images/personal-project/fix-phone.png">}}
 
 After a looooong shipping of nearly 1 month (USA -> France), I finally received everything. Helped with some tutorials and tools, let's do it.
 
 However...
 
-![Alt text](/images/personal-project/oh-no.jpg "I didn't break the screen, I'm nearly sure this is the result of too much heat.")
+![Alt text](/images/personal-project/oh-no.png "I didn't break the screen, I'm nearly sure this is the result of too much heat.")
 
 At this point, I didn't want to spend much more money (which was already 150€ and 50% just for taxes and shipping) and a new screen costs 180€... without taxes and shipping... oh dear. So I decided to buy a new phone and with the knowledge of "if it's too hot, you can buy a new phone" if I want to redo the experience.
 
@@ -58,6 +58,6 @@ But the result is still great, Syncthing is much faster to sync my folders and f
 
 Also, to preserve the new battery, I set the maximum charging at 66% with ACCA and also enable the Idle Mode so once the battery is charged at it's limit, the charging switch to powering only the phone itself so the battery will slowly decrease by itself (losts ~2% in 2 weeks) before starting recharging when it reach 20%.
 
-{{< image src="/images/personal-project/smartphone-project.jpg">}}
+{{< image src="/images/personal-project/smartphone-project.png">}}
 
-![Alt text](/images/personal-project/smartphone-support.jpg "I also retrieve a little support to hold the phone and the USB Hub and attach the HDD below.")
+![Alt text](/images/personal-project/smartphone-support.png "I also retrieve a little support to hold the phone and the USB Hub and attach the HDD below.")
